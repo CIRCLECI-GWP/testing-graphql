@@ -1,6 +1,6 @@
 # Automated Testing in Graphql with CircleCI
 
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/my-nuxt-app.svg?style=svg)](https://app.circleci.com/pipelines/github/CIRCLECI-GWP/my-nuxt-app?branch=master)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/testing-graphql.svg?style=svg)](https://app.circleci.com/pipelines/github/CIRCLECI-GWP/testing-graphql?branch=master)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
